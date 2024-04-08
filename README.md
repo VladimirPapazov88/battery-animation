@@ -1,0 +1,1 @@
+# More about this project: https://vlppz.ru/index.php/2024/04/08/making-animations-with-code/
